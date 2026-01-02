@@ -13,7 +13,13 @@ E2: Character<br>
 E3: Movement<br>
 ================================<br>
 <br>
+**INSTALLATION:**<br>
+-download files <br>
+-ensure that the ensemble.lua file is inside the "ensemble" folder<br>
+-copy to the We>Dust>Code directory of your monome norns 
+<br>
 
+<br>
 **INSTRUCTIONS:**<br>
 -load script <br>
 -ensure that your softcut input levels are turned up: main norns menu, page 4/4, go down to "SOFTCUT", make sure levels are aaround at least 0db. Sometimes they reset to -INF<br>
@@ -21,3 +27,4 @@ E3: Movement<br>
 -play audio into it<br>
 -press K3 button to trigger cascade<br>
 -it may take around 40 seconds for your audio to start playing back from the buffers <br>
+
