@@ -1,5 +1,5 @@
 # ensemble_v3<br>
-fragmenteded audio looping norns script<br>
+fragmenteded string texture generator for norns<br>
 <p align="center">
   <img src="ensemble-logo.svg" width="360">
 </p>
