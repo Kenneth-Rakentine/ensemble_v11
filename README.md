@@ -4,7 +4,7 @@ fragmenteded string texture generator for norns<br>
   <img src="ensemble-logo.svg" width="360">
 </p>
 
--- 
+
 <br>
 ENSEMBLE v3.1<br>
 Smooth Grains + Continuous [early SOFTCUT-ONLY Iteration]
