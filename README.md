@@ -1,4 +1,4 @@
-# ensemble_v3<br>
+# ensemble_v11<br>
 fragmenteded string texture generator for norns<br>
 <p align="center">
   <img src="ensemble-logo.svg" width="360">
